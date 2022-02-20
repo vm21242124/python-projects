@@ -1,2 +1,5 @@
 # python-projects
-There are so many type of project made by me. beggiener to advance python juorny of my life. lets do it RIGHT NOW!!!!!
+This is python coffeshop project of demo coffeshop interface.
+this is my first project of python . 
+learning python to advance and grabbing the skill.
+lets do it Right Now!!!!
